@@ -1,2 +1,2 @@
 # printf
-ALX C programming printf project
+C programming printf project
